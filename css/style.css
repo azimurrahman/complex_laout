@@ -1,0 +1,177 @@
+*{margin: 0; padding: 0}
+.left{float: left;}
+.right{float: right;}
+.header {
+	overflow: hidden;
+}
+
+.wrapper {
+	width: 95%;
+	margin: 0px auto;
+}
+
+.header_body {
+	width: 100%;
+	min-height: 150px;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+
+.body_up {
+	overflow: hidden;
+}
+
+.body_up_content{
+	width: 100%;
+	min-height: 450px;
+}
+
+.body_up_left {
+	overflow: hidden;
+	width: 29%;
+	min-height: 440px;
+}
+
+.body_up_left_wrapper{
+	width: 100%;
+	margin: 0px auto;
+}
+
+.body_up_left_content {
+	width: 100%;
+	min-height: 220px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin: 2px auto;
+}
+
+.body_up_right {
+	overflow: hidden;
+	width: 70%;
+	min-height: 440px;
+	margin: 2px .5%;
+}
+
+.body_up_right_wrapper{
+	width: 100%;
+	margin: 0px auto;
+}
+
+.body_up_right_up {
+	width: 100%;
+	min-height: 250px;
+	margin: 1px auto;
+}
+
+.body_up_right_up_wrapper{
+	width: 100%;
+	margin: 0px auto;
+}
+
+.body_up_right_up_left {
+	overflow: hidden;
+	width: 68%;
+	min-height: 240px;
+	margin: 1px 1%;
+}
+
+.body_up_right_up_left_top {
+	width: 100%;
+	min-height: 115px;
+	margin: 1px auto;
+}
+
+.body_up_right_up_left_top_content {
+	width: 49%;
+	min-height: 113px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin: 1px auto;
+
+}
+
+.body_up_right_up_left_bottom {
+	width: 100%;
+	min-height: 115px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin: 1px auto;
+}
+
+.body_up_right_up_right {
+	overflow: hidden;
+	width: 28%;
+	min-height: 240px;
+	border: 1px solid red;
+	box-sizing: border-box;
+	margin: 1px 1%;
+}
+
+.body_up_right_middle {
+	width: 100%;
+	min-height: 90px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin: 1px auto;
+}
+
+.body_up_right_bottom {
+	width: 100%;
+	min-height: 90px;
+	margin: 1px auto;
+}
+
+.body_up_right_bottom_content {
+	width: 48%;
+	min-height: 85px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin: 1px auto;
+}
+
+.body_middle {
+	overflow: hidden;
+}
+
+.body_middle_content {
+	width: 100%;
+	min-height: 175px;
+	border: 1px solid red;
+	box-sizing: border-box;
+}
+
+.body_bottom {
+	overflow: hidden;
+}
+
+.body_bottom_content{
+	width: 100%;
+	min-height: 75px;
+}
+
+.body_bottom_left {
+	width: 28%;
+	min-height: 70px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin: 1.5px 0.5%;
+}
+
+.body_bottom_right {
+	width: 68%;
+	min-height: 70px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin: 1.5px 0.5%;
+}
+
+.footer {
+	overflow: hidden;
+}
+
+.footer_content {
+	width: 100%;
+	min-height: 150px;
+	border: 1px solid green;
+	box-sizing: border-box;
+}
